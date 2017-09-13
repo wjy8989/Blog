@@ -1,1 +1,1 @@
-### [Home](http://www.wangjunyao.cn) | [About](page/about.md)
+### [Home](http://www.wangjunyao.cn) | [About](pages/about.md)
